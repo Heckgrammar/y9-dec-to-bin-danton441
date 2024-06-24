@@ -25,7 +25,7 @@ namespace Y9_DEC_TO_BIN_SKELETON
         static string numberConversion(int number, int numberbase)
         {
             //CODE GOES HERE
-
+             
             return result; //REMOVE THE RED LINE!
         }
     }
